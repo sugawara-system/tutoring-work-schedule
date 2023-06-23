@@ -10,30 +10,38 @@
 有償ソフトウェア、スケジュールナース上で動く、塾講師のシフト作成問題を解くプロジェクトです。
 オリジナル問題は、Qiitaでの記事、[Google OR-Toolsによる最適化プロジェクト入門](https://qiita.com/yukiopt/items/dab6bc76d9ff41d551f5)です。
 
+<br><br>
+
+
 ## スケジュールナースのインストール
 
 スケジュールナースは、Windows10/11で動く、有償ソフトです。480円/月(2024　12月現在)
 
-1. [インストールサイト](https://apps.microsoft.com/store/detail/9N94ZPBTB0RL)でインストールします。
+[インストールサイト](https://apps.microsoft.com/store/detail/9N94ZPBTB0RL)でインストールします。
 
-2. GithubViewerを開きます。 
+<br><br>
+
+## 使い方
+
+
+1. GithubViewerを開きます。 
 
 <div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_31.png" width="1200"/></div>
 
-3. 本サイトが出てくるまで　Nextを押します。
+2. 本サイトが出てくるまで　Nextを押します。
 
 <div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_27.png" width="1200"/></div>
 
-4. 本プロジェクトをダウンロードします。 
+3. 本プロジェクトをダウンロードします。 
 
 <div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_30.png" width="1200"/></div>
 
-5. プロジェクトに名前を付けて保存します。
+4. プロジェクトに名前を付けて保存します。
 
-<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_29.png" width="1200"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_28.png" width="1200"/></div>
 
 
-6. 求解ボタンを押します。
+5. 求解ボタンを押します。
 
 <br><br>
 
@@ -78,7 +86,7 @@
 
 <div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_19.png" width="1200"/></div>
 
-## 予定入力例
+## 予定入力
 
 全セル、レベル1に制約しています。
 
