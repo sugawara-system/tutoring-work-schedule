@@ -18,16 +18,19 @@
 
 2. GithubViewerを開きます。 
 
-<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/github_viewer.png" width="400"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_31.png" width="1200"/></div>
 
 3. 本サイトが出てくるまで　Nextを押します。
-<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/select_file_on_github.png" width="600"/></div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_27.png" width="1200"/></div>
 
 4. 本プロジェクトをダウンロードします。 
 
+<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_30.png" width="1200"/></div>
+
 5. プロジェクトに名前を付けて保存します。
 
-<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/downloaded_file.png" width="600"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_29.png" width="1200"/></div>
 
 
 6. 求解ボタンを押します。
@@ -75,6 +78,22 @@
 
 <div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_19.png" width="1200"/></div>
 
+## 予定入力例
+
+全セル、レベル1に制約しています。
+
+<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_17.png" width="1200"/></div>
+
+
+
+### 塾講師人数
+
+毎週、各曜日では、必要人数は変わるので、次の表で定義します。
+
+<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_29.png" width="1200"/></div>
+
+<br><br>
+
 ## アルゴリズム
 
 下記アルゴリズムの選択が可能です。
@@ -88,11 +107,7 @@
 
 <div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_23.png" width="1200"/></div>
 
-## 予定入力例
-
-全セル、レベル1に制約しています。
-
-<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_17.png" width="1200"/></div>
+<br><br>
 
 
 ## シフト解例
