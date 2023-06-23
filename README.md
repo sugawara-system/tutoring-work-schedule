@@ -1,7 +1,7 @@
 ![logo1](https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_13.png)
 
 
-[English README is here]()
+[English README is here.TODO]()
 
 
 
@@ -24,15 +24,17 @@
 <div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/select_file_on_github.png" width="600"/></div>
 
 4. 本プロジェクトをダウンロードします。 
-<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/downloaded_file.png" width="600"/></div>
 
 5. プロジェクトに名前を付けて保存します。
 
+<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/downloaded_file.png" width="600"/></div>
+
 
 6. 求解ボタンを押します。
-<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/solve_window.png" width="1200"/></div>
 
-##　モデル化
+<br><br>
+
+## モデル化
 
 ### 空きコマを出来るだけ少なくしたい
 
@@ -48,9 +50,12 @@
 
 <div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_22.png" width="1200"/></div>
 
+<br><br>
 
 
 ## 実装
+
+### シフト形態
 
 シフト形態は、規定されていないのですが、4コマ、3コマ、2コマ連続の全てのパターンがあり得る、と想定しました。(1コマ単独は禁止を想定）
 
@@ -78,6 +83,9 @@
 <div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_16.png" width="1200"/></div>
 
 
+各アルゴリズムの開発元と概要は以下です。
+
+
 <div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_23.png" width="1200"/></div>
 
 ## 予定入力例
@@ -89,7 +97,7 @@
 
 ## シフト解例
 
-<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_24.png" width="1200"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_25.png" width="1200"/></div>
 
 
 ## タスク解例
@@ -98,6 +106,6 @@
 
 
 ## シフト・タスク解例
-<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_25.png" width="1200"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_24.png" width="1200"/></div>
 
 
