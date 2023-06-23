@@ -1,6 +1,6 @@
 ![logo1](https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_13.png)
 
-[English README is here](https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/README_EN.md)
+[English README is here](https://github.com/sugawara-system/tutoring-work-schedule/main/README_EN.md)
 
 
 ## 概要
