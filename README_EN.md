@@ -2,7 +2,7 @@
 
 
 
-[日本語版 README はこちら](https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/README.md)
+[日本語版 README はこちら](https://github.com/sugawara-system/tutoring-work-schedule/blob/main/README.md)
 
 
 
@@ -66,18 +66,6 @@ From the subject, we turn off all soft shift requests. We also turn off the pena
 <div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_47.png" width="1200"/></div>
 
 
-Turn off the Attendance Penalty Generation section (Row Constraint: 3), which is unrelated to the constraint in question. (Uncheck the relevant soft constraint and solve for it.)
-Also, weight the schedule heavily so that the work shift preference does not change.
-
-<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_21.png" width="1200"/></div>
-
-
-### I want to minimize my attendance as much as possible.
-
-From the subject, we turn off all soft attendance requests. We also turn off the aforementioned penalty for free frames to solve the problem.
-
-<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_22.png" width="1200"/></div>
-
 
 <br><br>
 
@@ -91,6 +79,7 @@ The shift pattern is not specified, but it is assumed that there are all possibl
 
 <div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_46.png" width="1200"/></div>
 
+<br>
 
 
 The constraints of the part that generates the desired penalty are as follows.
@@ -102,11 +91,16 @@ The constraints of the part that generates the desired penalty are as follows.
 <div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_45.png" width="1200"/></div>
 
 
+<br>
+
 ### Attendance (negation of day-off)
 
 
 
 <div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_44.png" width="1200"/></div>
+
+
+<br>
 
 ## Enter Preferred schedule
 
@@ -115,6 +109,7 @@ All cells, constrained to level 1.
 
 <div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_43.png" width="1200"/></div>
 
+<br>
 
 ### Number of tutors
 
@@ -123,6 +118,7 @@ Each week and each day of the week, the required number of tutors will change, w
 
 <div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_42.png" width="1200"/></div>
 
+<br>
 
 ## Algorithms
 
@@ -131,6 +127,8 @@ The following algorithms can be selected.
 
 
 <div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_41.png" width="1200"/></div>
+
+<br>
 
 The developer and summary of each algorithm is below.
 
@@ -156,6 +154,3 @@ The developer and summary of each algorithm is below.
 
 <div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_38.png" width="1200"/></div>
 
-## Example of Shift Task Solution
-
-<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_24.png" width="1200"/></div>
